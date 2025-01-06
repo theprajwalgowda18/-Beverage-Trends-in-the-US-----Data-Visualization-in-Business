@@ -1,10 +1,4 @@
 
-Beverage Trends in the US – Interactive Tableau Dashboard - Data Visualization in Business
-Beverage Trends in the US – Interactive Tableau Dashboard - Data Visualization in Business
-Sep 2023 - Dec 2023Sep 2023 - Dec 2023
-
-Associated with Isenberg School of Management, UMass Amherst
-Associated with Isenberg School of Management, UMass Amherst
 Description:
 This project focuses on analyzing coffee and tea sales trends across the four major American markets (East, West, Central, and South) over 2010 and 2011. Using data from Kaggle, the analysis reveals critical insights into sales, profitability, and market performance for these beverages, providing a data-driven foundation for business decision-making.
 
